@@ -1,4 +1,4 @@
-# Python code to illustrate parsing of XML files 
+# Python code to illustrate parsing of XML files TanmayBhat, Khalidjamonday(carryminaty) 
 # importing the required modules and lib 
 import sys
 import csv 
