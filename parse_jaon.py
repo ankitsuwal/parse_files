@@ -35,7 +35,7 @@ def parseJSON(jsonfile):
             points_y.append(point[1])
         points_x.sort()
         points_y.sort()
-        items.append([points_x[0], points_y[0], points_x[-1], points_y[-1]])
+        items.append([int(points_x[0]), int(points_y[0]), int(points_x[-1]), int(points_y[-1])])
     return items
 
 
